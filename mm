@@ -1,3 +1,3 @@
 streamlit
 pandas
-mssql-python
+mssql-python==1.16.0
